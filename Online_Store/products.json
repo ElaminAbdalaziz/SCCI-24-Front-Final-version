@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "sticker 1",
+        "price": 5.00,
+        "image": "img/product.png"
+    },
+
+    {
+        "id": 2,
+        "name": "sticker 2",
+        "price": 5.00,
+        "image": "img/product.png"
+    },
+
+    {
+        "id": 3,
+        "name": "sticker 3",
+        "price": 5.00,
+        "image": "img/product.png"
+    },
+
+    {
+        "id": 4,
+        "name": "sticker 4",
+        "price": 5.00,
+        "image": "img/product.png"
+    },
+
+    {
+        "id": 5,
+        "name": "sticker 5",
+        "price": 5.00,
+        "image": "img/product.png"
+    },
+
+    {
+        "id": 6,
+        "name": "sticker 6",
+        "price": 5.00,
+        "image": "img/product.png"
+    },
+
+    {
+        "id": 7,
+        "name": "sticker 8",
+        "price": 5.00,
+        "image": "img/product.png"
+    },
+
+    {
+        "id": 8,
+        "name": "sticker 8",
+        "price": 5.00,
+        "image": "img/product.png"
+    },
+
+    {
+        "id": 9,
+        "name": "sticker 9",
+        "price": 5.00,
+        "image": "img/product.png"
+    }
+]

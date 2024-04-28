@@ -1,0 +1,49 @@
+.navbar {
+    background-color: #00005B;
+}
+
+.nav-link {
+    color: #c5c5c5;
+    font-size: 18px;
+    white-space: nowrap;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+#navButtonContainer a {
+    border: 2px solid #c52525;
+}
+
+#navButtonContainer a:hover {
+    background-color: #c52525;
+    color: white;
+}
+
+.navbar-toggler {
+    border: 2px solid white;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+@media (max-width: 1050px) and (min-width: 992px) {
+    #navContainer {
+        padding: 0 1rem !important;
+    }
+}
+
+@media (min-width: 992px) {
+    #navButtonContainer::before {
+        content: "";
+        position: relative;
+        width: 1.5px;
+        height: 1.7rem;
+        background-color: #c5c5c5;
+        top: 10px;
+        left: -25px;
+        cursor: none;
+    }
+}
